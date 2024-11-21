@@ -1,0 +1,27 @@
+.profile-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.profile-info {
+    margin-top: 20px;
+}
+
+.info-card {
+    background-color: #f8f9fa; /* Light background color for cards */
+    border: 1px solid #ced4da; /* Border color for cards */
+    border-radius: 8px; /* Rounded corners */
+    padding: 15px; /* Inner padding */
+    margin-bottom: 15px; /* Space between cards */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Light shadow for depth */
+}
+
+h3 {
+    margin-top: 0; /* Remove top margin for card headings */
+}
+
